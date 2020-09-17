@@ -1,0 +1,4 @@
+<?php
+
+$texto limpio=preg_replace("/[[:space:]]/"," ",trim($texto))
+echo $textolimpio;

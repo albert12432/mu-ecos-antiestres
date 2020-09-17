@@ -1,0 +1,224 @@
+body { 
+    background-color:whrite;
+}
+{ 
+    margin: 0;
+    padding: 0;
+}
+.Intro {
+    font-size: 40px;
+    text-align: center;
+    background-color: darkred;
+    border-radius: 00%;
+    width: 30%;
+    height: 10%;
+
+}
+.Toystore1{
+    text-align:;
+    background-color:rgb(236, 13, 13);  
+    border-radius: 00%;
+    width: ;
+    height:;
+
+}
+.localizacion{
+text-align:center;
+background-color:darkred;  
+border-radius: 00%;
+width:-10% ;
+height:10%;
+}
+.muñecos{
+    text-align:center;
+    background-color:darkred;  
+    border-radius: 00%;
+    width:-10% ;
+    height:10%;
+}
+.parrafo1 {
+    background-color:darkgray:
+       text-align: center;
+  
+    width: 50%;
+    
+}
+.parrafo2 {
+    background-color;darkgray;
+    text-align: center;
+    width: 24.2%;
+   
+
+}
+.parrafo3{
+    background-color:;
+    text-align: center;
+    width: 24.2%;
+}
+.mision {
+    text-align: center;
+    font-size: 40px;
+    background-color: darkred;
+    width: 25%;
+    height: 10%;
+}
+.vision {
+    background-color: darkred;
+    font-size: 40px;
+    text-align: center;
+    width:25%;
+    height:10%;
+    
+}
+.eslogan {
+    background-color: darkred;
+    font-size: 40px;
+    text-align: center;
+    width:25%;
+    height:10%; 
+}
+.parrafo4 {
+    background-color:;
+    text-align: center;
+    width: 24.2%  ;
+}
+.personal{
+    background-color: darkred;
+    font-size: 40px;
+    text-align: center;
+    width:25%;
+    height:10%;
+    
+}
+.imagen1{
+    text-align: left;
+    width:40%;
+    height:60%;
+}
+
+.gmail{
+    text-align: left;
+    width:40%;
+    height:60%;
+}
+.parrafo6{
+    font-size:
+    text-align: center;
+}
+.mapa1{
+    width:;
+    height:100%;   
+}
+/** POSICIONAMIENTO**/
+.parrafo1  {
+    position: relative;
+    bottom: 20px;
+    top: ;
+    right: ;
+    left:;
+}
+.mision {
+    position: relative;
+    bottom:57.2%;
+    top: ;
+    right: ;
+    left: 76%;
+}
+.eslogan{
+    position: relative;
+    bottom:71%;
+    top: ;
+    right: ;
+    left: 76%;
+}
+.parrafo2{
+    position: relative;
+    bottom: 61%;
+    top: ;
+    right: ;
+    left: 76%;
+}
+.parrafo3{
+    position: relative;
+    bottom: 68%;
+    top: ;
+    right: ;
+    left: 76%;
+}
+.parrafo4{
+    position: relative;
+    bottom: 75%;
+    top: ;
+    right: ;
+    left: 76%;
+}
+.vision{
+    position: relative;
+    bottom:64.2%;
+    top: ;
+    right: ;
+    left: 76%;
+}
+.personal{
+    position: relative;
+    bottom:110%;
+    top: ;
+    right: ;
+    left: ;
+}
+.imagen1{
+    position: relative;
+    bottom:117%;
+    top: ;
+    right: 90;
+    left: ;  
+}
+.muñecos{
+    position: relative;
+    bottom:130%;
+    top:;
+    right: ;
+    left: ;   
+}
+.gmail{
+    position: relative;
+    bottom:130%;
+    top:;
+    right:;
+    left:;     
+}
+.parrafo6{
+    position: relative;
+    bottom: 130%;
+    top: ;
+    right: ;
+    left:;
+}
+.parrafo7{
+    position: relative;
+    bottom: 120%;
+    top: ;
+    right: ;
+    left:;
+}
+.imagen2{
+    position: relative;
+    bottom: 125%;
+    top: ;
+    right: ;
+    left:;
+}
+.mapa1{
+    position: relative;
+    bottom:110%;
+    top:;
+    right: ;
+    left:;  
+    text-align: center;
+}
+.localizacion{
+    position: relative;
+    bottom:110%;
+    top:;
+    right: ;
+}
